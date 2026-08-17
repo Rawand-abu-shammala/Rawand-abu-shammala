@@ -16,6 +16,10 @@ Building modern, responsive and user-friendly web applications 🚀
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="mailto:rwndsami@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rwndsami%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
 ---
